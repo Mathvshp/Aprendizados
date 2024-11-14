@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+}
+p{
+    margin-bottom: 40px;
+    padding: 20px;
+}
+.padrao{
+    background-color: #F5F5F5;
+}
+.manutencao{
+    background-color: #F0CCE2;
+}
